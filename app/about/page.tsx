@@ -18,7 +18,7 @@ export default function About() {
             <h1 className="headline">
               <span className="gradient-text">Swetha Reddy Ganta</span>
             </h1>
-            <p className="subheadline">AI Engineer with expertise in machine learning and computer vision</p>
+            <p className="subheadline">AI Engineer with expertise in Machine Learning and Computer Vision</p>
           </div>
         </div>
       </section>
@@ -85,9 +85,9 @@ export default function About() {
                 <div className="card p-8">
                   <h2 className="text-2xl font-medium mb-6">Professional Summary</h2>
                   <p className="text-gray-300 mb-4">
-                    AI Engineer with comprehensive experience in machine learning, deep learning, natural language
-                    processing, and computer vision. Demonstrated expertise in developing intelligent systems with
-                    published research in multilingual NLP, fraud detection, and computer vision.
+                    AI Engineer with comprehensive experience in Machine Learning, Deep Learning, Natural Language
+                    Processing, and Computer Vision. Demonstrated expertise in developing intelligent systems with
+                    published research in multilingual NLP, fraud detection, and Computer Vision.
                   </p>
                   <p className="text-gray-300 mb-4">
                     Passionate about leveraging AI to solve complex problems at scale, with strong technical foundation
@@ -97,7 +97,7 @@ export default function About() {
                   <p className="text-gray-300">
                     My journey in AI began during my undergraduate studies where I developed a keen interest in how
                     machines can learn from data. This fascination led me to pursue specialized research in multilingual
-                    NLP and computer vision, resulting in multiple published papers and practical applications that
+                    NLP and Computer Vision, resulting in multiple published papers and practical applications that
                     solve real-world problems.
                   </p>
                 </div>

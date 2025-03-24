@@ -20,7 +20,7 @@ export default function Home() {
                 <span className="text-3xl md:text-4xl font-medium mt-2 block">AI Engineer from New York, USA</span>
               </h1>
               <p className="subheadline mb-10">
-                Specialized in machine learning, deep learning, natural language processing, and computer vision with
+                Specialized in Machine Learning, Deep Learning, Natural Language Processing, and computer vision with
                 published research.
               </p>
               <div className="flex flex-wrap gap-4">
@@ -67,11 +67,11 @@ export default function Home() {
               </div>
               <h2 className="headline">
                 Pushing the boundaries of
-                <span className="gradient-text"> artificial intelligence</span>
+                <span className="gradient-text"> Artificial Intelligence</span>
               </h2>
               <p className="subheadline mb-6">
-                AI Engineer with comprehensive experience in machine learning, deep learning, natural language
-                processing, and computer vision. Demonstrated expertise in developing intelligent systems with published
+                AI Engineer with comprehensive experience in Machine Learning, Deep Learning, Natural Language
+                Processing, and Computer Vision. Demonstrated expertise in developing intelligent systems with published
                 research.
               </p>
               <p className="text-gray-400 mb-8">
@@ -133,7 +133,7 @@ export default function Home() {
               specialization="Computer Science"
               period="Aug. 2019 – May 2023"
               location="Warangal, India"
-              image="/images/kakatiya-university.jpeg"
+              image="/images/kakatiya-university.jpg"
               link="https://www.kitsw.ac.in/"
             />
           </div>
